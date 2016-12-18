@@ -1,0 +1,1 @@
+class NotANumberException extends Exception{};
